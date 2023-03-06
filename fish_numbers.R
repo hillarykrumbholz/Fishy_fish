@@ -25,3 +25,6 @@ cat <- c(1)
 blah <- c(0)
 
 duckie <- c(1)
+
+funky <- c(1)
+
