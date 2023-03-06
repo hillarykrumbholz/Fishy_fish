@@ -24,3 +24,4 @@ cat <- c(1)
 
 blah <- c(0)
 
+funky <- c(1)
